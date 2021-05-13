@@ -10023,7 +10023,7 @@ h3 {
 }
 
 #sidebar-wrapper {
-  min-height: 35vh;
+  min-height: 20vh;
   margin-left: -15rem;
   transition: margin 0.25s ease-out;
 }
