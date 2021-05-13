@@ -10023,7 +10023,7 @@ h3 {
 }
 
 #sidebar-wrapper {
-  min-height: 100vh;
+  min-height: 70vh;
   margin-left: -15rem;
   transition: margin 0.25s ease-out;
 }
@@ -10034,7 +10034,7 @@ h3 {
 }
 
 #sidebar-wrapper .list-group {
-  width: 15rem;
+  width: 200px;
 }
 
 #page-content-wrapper {
