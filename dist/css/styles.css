@@ -75,7 +75,6 @@ body {
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
-  background: #5cb85c;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
