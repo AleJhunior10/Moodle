@@ -3937,6 +3937,10 @@ input[type=button].btn-block {
   border-top-right-radius: 0;
 }
 
+.espacio{
+  padding-left: 20px;
+}
+
 .nav-pills .nav-link {
   border-radius: 0.25rem;
 }
